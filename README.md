@@ -1,6 +1,6 @@
 # React + Vite + TailwindCss
-to run this project  type  [run npm i] terminal 
-to syart this project type [ npm run dev ] im terminal
+To run This Project  Type  [ npm i] in terminal 
+To Start This Project Type [ npm run dev ] iN terminal
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
